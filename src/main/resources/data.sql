@@ -1,0 +1,2 @@
+insert into users_tab (user_email, user_name, user_passwd, user_id) values('dami@onet.eu', 'dami@onet.eu', '$2a$10$JL0i3OQuYZEPIdy9017Zm.BLUrv13s2ot4TdVtKynt5R5k0nLraEK', 1);
+insert into roles (user_id, user_role) values (1, 'ADMIN');
